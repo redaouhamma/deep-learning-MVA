@@ -1,1 +1,1 @@
-# deep-learnin-MVA
+# deep-learning-MVA
